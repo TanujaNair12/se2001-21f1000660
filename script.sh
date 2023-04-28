@@ -1,0 +1,3 @@
+#!/bin/bash
+export GITHUB_USERNAME=TanujaNair12
+export GITHUB_REPOSITERY=se2001-21f1000660
